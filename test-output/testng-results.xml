@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3848" started-at="2020-10-10T00:56:19Z" finished-at="2020-10-10T00:56:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3848" started-at="2020-10-10T00:56:19Z" finished-at="2020-10-10T00:56:23Z">
+      <class name="ApiCalls">
+        <test-method status="PASS" signature="createBoard()[pri:0, instance:ApiCalls@724af044]" name="createBoard" duration-ms="3802" started-at="2020-10-10T00:56:19Z" finished-at="2020-10-10T00:56:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBoard -->
+      </class> <!-- ApiCalls -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
